@@ -1,1 +1,1 @@
-# Ceci est une applcation de démo
+# Ceci est une application de démo
